@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+
+    <ImageView
+        android:id="@+id/about"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:background="@drawable/searchbar_box"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:contentDescription="@string/about_page" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text="@string/about"
+        android:fontFamily="@font/source_sans_pro"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textColor="@color/grey"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="65dp" />
+
+    <TextView
+        android:id="@+id/thisapp"
+        android:layout_width="350dp"
+        android:layout_height="85dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:text="@string/this_app_is_made_as_a_step_toward_the_request_made_by_our_respected_prime_minister_shri_narendra_modi_ji"
+        android:textSize="18sp"
+        android:fontFamily="@font/source_sans_pro"
+        android:textColor="@color/grey"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/vocaltext"
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/thisapp"
+        android:text="@string/vocal_for_local"
+        android:fontFamily="@font/source_sans_pro"
+        android:textColor="@color/grey"
+        android:textSize="18sp"
+        android:textAlignment="center" />
+
+
+
+    <ImageView
+        android:id="@+id/line7"
+        android:layout_width="100dp"
+        android:layout_height="3dp"
+        android:layout_below="@id/vocaltext"
+        android:background="@drawable/line7"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/line7" />
+
+</RelativeLayout>

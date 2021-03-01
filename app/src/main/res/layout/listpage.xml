@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+<!--    <ImageView-->
+<!--        android:id="@+id/navigationbar"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="60dp"-->
+<!--        android:background="@drawable/navigationbox"-->
+<!--        android:contentDescription="@string/navigation" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/menubar"-->
+<!--        android:layout_width="50dp"-->
+<!--        android:layout_height="50dp"-->
+<!--        android:layout_marginStart="10dp"-->
+<!--        android:layout_marginTop="5dp"-->
+<!--        android:background="@drawable/arrow_back_new"-->
+<!--        android:contentDescription="@string/menuicon" />-->
+<androidx.appcompat.widget.Toolbar
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/navigationbox"
+    android:id="@+id/listPageToolBar">
+   <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="62dp"
+                android:gravity="center"
+                android:fontFamily="@font/source_sans_pro_bold"
+                android:text="@string/bharatkart"
+                android:layout_centerHorizontal="true"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="32sp" />
+</androidx.appcompat.widget.Toolbar>
+
+
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/appListRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/listPageToolBar"
+        android:layout_marginHorizontal="8dp"/>
+
+</RelativeLayout>

@@ -1,0 +1,348 @@
+<resources>
+    <string name="app_name">BharatCart</string>
+    <string name="splash">splash</string>
+    <string name="bgwhitebox">bgwhitebox</string>
+    <string name="modi">modi</string>
+    <string name="orange">orange</string>
+    <string name="bluebg">bluebg</string>
+    <string name="hindi1">hindi1</string>
+    <string name="hindi2">hindi2</string>
+    <string name="next1">next1</string>
+    <string name="screen">screen</string>
+    <string name="threedot">threedot</string>
+    <string name="enter_what_kind_of_app_product_you_are_looking_for">Enter What Kind Of App / Product You Are Looking For</string>
+    <string name="arrow1">arrow1</string>
+    <string name="handicon">handicon</string>
+    <string name="ovrlly">ovrlly</string>
+    <string name="search_the_app_or_product_for_say_pdf_scanner_toothpaste">Search The App Or Product For Say PDF Scanner / Toothpaste</string>
+    <string name="search_the_app_or_product_for_say_pdf_scanner_or_toothpaste">Search The App Or Product For Say - PDF Scanner Or Toothpaste</string>
+    <string name="pdf_scanner">PDF Scanner</string>
+    <string name="screen1">screen1</string>
+    <string name="screen2">screen2</string>
+    <string name="you_will_get_a_list_of_all_indian_apps_product_related_to_your_search">You Will Get A List Of All Indian Apps / Product Related To Your Search</string>
+    <string name="namebox">namebox</string>
+    <string name="firstname">FirstName *</string>
+    <string name="lastname">Lastname *</string>
+    <string name="contact">Contact *</string>
+    <string name="mail_id">Mail ID (Optional)</string>
+    <string name="city">City (Optional)</string>
+    <string name="monumentimage">monumentimage</string>
+    <string name="account_register">Account Register</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="submitbutton">SUBMIT</string>
+    <string name="verifybutton">Verifybutton</string>
+    <string name="sp_bg">SP_BG</string>
+    <string name="menubox">menubox</string>
+    <string name="ovrly5">ovrly5</string>
+    <string name="userpic">userpic</string>
+    <string name="user">ELON MUSK\'s SON</string>
+    <string name="ao431">TEST USER</string>
+    <string name="goback">goback</string>
+    <string name="line1">line1</string>
+    <string name="line2">line2</string>
+    <string name="homeicon">homeicon</string>
+    <string name="useicon">useicon</string>
+    <string name="abouticon">abouticon</string>
+    <string name="feedbackicon">feedbackicon</string>
+    <string name="contactusicon">contactusicon</string>
+    <string name="creatorsicon">creatorsicon</string>
+    <string name="logouticon">Logout</string>
+    <string name="exit">EXIT</string>
+    <string name="home">Home</string>
+    <string name="developers">Developers</string>
+    <string name="logout">Logout</string>
+    <string name="navigation">navigation</string>
+    <string name="halfbox">halfbox</string>
+    <string name="searchbar_box">searchbar_box</string>
+    <string name="menuicon">menuicon</string>
+    <string name="bharatkart">BHARATCART</string>
+    <string name="search">Search</string>
+    <string name="made_in_india">MADE IN INDIA</string>
+    <string name="about_page">about_page</string>
+    <string name="about">About</string>
+    <string name="this_app_is_made_as_a_step_toward_the_request_made_by_our_respected_prime_minister_shri_narendra_modi_ji">This App Is Made As A Step Toward The Request Made By Our Respected Prime Minister Shri Narendra Modi Ji.</string>
+    <string name="vocal_for_local">Support #VocalForLocal</string>
+    <string name="in_this_app_you_will_get_all_kind_of_required_indian_apps_if_we_got_good_responses_to_this_we_will_surely_come_back_with_more_better_platform_which_will_include_much_more_but_all_indian">In This App You Will Get All Kind Of Required Indian Apps. If We Got Good Responses To This, We Will Surely Come Back With More Better Platform Which Will Include Much More But All Indian.</string>
+    <string name="how_to_use">How To Use ?</string>
+    <string name="type_your_required_kind_of_app_in_the_search_bar">Type your required kind of app in the search bar.</string>
+    <string name="for_example_1_text_editor_2_pdf_scanner_3_photo_editor">For Example - 1. Text Editor 2. PDF Scanner 3. Photo Editor</string>
+    <string name="in_result_you_will_get_all_the_apps_related_to_your_search">In result you will get all the apps related to your search click
+        the local app you want to install and you will be re-directed to Play-store.</string>
+    <string name="add">In product section you will get all Indian daily essentials, which are made with love of Indian,
+    check them out, each of them have got something special for you.</string>
+    <string name="for_example_pdf_scanner_toothpaste">for example - PDF scanner , Browser</string>
+    <string name="feedback">Feedback</string>
+    <string name="feed_box">feed_box</string>
+    <string name="always_waiting_for_some_feedback_from_you_so_that_we_can_improve_with_each_update">Use G-mail or Mail To Send Feedback.Always Waiting For Some Feedback From You So That We Can Improve With Each Update.</string>
+    <string name="line7">line7</string>
+    <string name="contact_us_page">contact_us_page</string>
+    <string name="feedback_page">feedback_page</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="for_any_queries">For Any Queries :</string>
+    <string name="email_us_at_infobharatkart_gmail_com">Email Us At - feedbackbharatcart@gmail.com For Quick Responses, Feel Free Mailing Us</string>
+    <string name="contact_us_at_8982835956">Contact Us At - 8982835956</string>
+    <string name="for_quick_responses_feel_free_mailing_us">For Quick Responses, Feel Free Mailing Us</string>
+    <string name="developers_page">developers_page</string>
+    <string name="app_developers">App Developers</string>
+    <string name="message_from_developers">Message From Developers</string>
+    <string name="we_students_of_india_want_to_take_a_step_towards_our_respected_prime_minister_s_request">We Students Of India, Want To Take A Step Towards Our Respected Prime Minister\'s Request.
+    The More Indian Products We Use The More Our Indian Government Will Be Going To Get Benefit Through That, And It\'s Our Duty To Come Together And Help Our PM On His Mission.
+    </string>
+    <string name="thank_you">Thank You</string>
+    <string name="rachit_pahwa_mudit_dubey_shubham_bindal_rishab_jain_daksh_agnihotri_pradyumna_mittal">Pradyumna Mittal, Rachit Pahwa, Shubham Bindal,  Rishabh Jain, Mudit Dubey. </string>
+    <string name="how_to_use_page">how_to_use_page</string>
+    <string name="enter_here">Enter Here…</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="title_activity_navactivity">navactivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="login">Login</string>
+    <string name="Group1">Toothpaste</string>
+    <string name="Group2">Soaps</string>
+    <string name="Group3">Detergents and soap</string>
+    <string name="Group4">Shaving Creams </string>
+    <string name="Group5">Blades</string>
+    <string name="Group6">Shampoo</string>
+    <string name="Group7">Cold-drinks</string>
+    <string name="Group8">Snacks</string>
+    <string name="Group9">Salts</string>
+    <string name="Group10">Icecreams</string>
+    <string name="Group11">Water Bottles</string>
+    <string name="Group12">Electronics</string>
+    <string name="Group13">Readymade Garments</string>
+    <string name="Group14">Stationeries</string>
+    <string name="Group15">Automobiles</string>
+    <string name="Group16">Mobiles</string>
+    <string name="Group17">VFX</string>
+    <string name="Group18">IT</string>
+    <string name="Group19">Defense</string>
+    <string name="Group20">Medicines</string>
+    <string name="Group21">Watches</string>
+
+    <string-array name="Group1">
+        <item>1. Patanjali</item>
+        <item>2. Vicco</item>
+        <item>3. Babool</item>
+        <item>4. Dabur</item>
+        <item>5. Baidyanath</item>
+        <item>6. Anchor</item>
+        <item>7. Vicco</item>
+    </string-array>
+    <string-array name="Group2">
+        <item>1. Patanjali</item>
+        <item>2. Margo</item>
+        <item>3. Nima</item>
+        <item>4. Nirma</item>
+        <item>5. Medimix</item>
+        <item>6. Himani</item>
+        <item>7. Godrej</item>
+        <item>8. Cinthol</item>
+    </string-array>
+    <string-array name="Group3">
+        <item>1. Patanjali</item>
+        <item>2. Ghadi</item>
+        <item>3. Nirma</item>
+        <item>4. Godrej</item>
+        <item>5. Fena</item>
+        <item>6. Gentil</item>
+        <item>7. Doctor</item>
+        <item>8. Hipolin</item>
+    </string-array>
+    <string-array name="Group4">
+        <item>1. Park Avenue</item>
+        <item>2. Premium</item>
+        <item>3. V-John</item>
+        <item>4. Emami</item>
+        <item>5. Balsara</item>
+        <item>6. Godrej</item>
+    </string-array>
+    <string-array name="Group5">
+        <item>1. Topaz</item>
+        <item>2. Gallent</item>
+        <item>3. Super Max</item>
+        <item>4. Laser</item>
+        <item>5. Esquire</item>
+        <item>6. Silver Prince</item>
+        <item>7. Premium</item>
+    </string-array>
+    <string-array name="Group6">
+        <item>1. Godrej</item>
+        <item>2. Tata</item>
+        <item>3. Wipro</item>
+        <item>4. Park avenue</item>
+        <item>5. Sawastik</item>
+        <item>6. Ayur Herbal Hair and Care</item>
+        <item>7. Arnica</item>
+        <item>8. Dabur</item>
+        <item>9. Vantika</item>
+        <item>10. Lavender</item>
+    </string-array>
+    <string-array name="Group7">
+        <item>1. Amul</item>
+        <item>2. Jaljeera</item>
+        <item>3. Sawastik</item>
+        <item>4. Rasna</item>
+        <item>5. Frooti</item>
+        <item>6. Godrej Jumpin</item>
+    </string-array>
+    <string-array name="Group8">
+        <item>1. Bikano Namkeens</item>
+        <item>2. Bikaji</item>
+        <item>3. Haldiram</item>
+        <item>4. Patanjali</item>
+        <item>5. Priya</item>
+        <item>6. Balaji</item>
+    </string-array>
+    <string-array name="Group9">
+        <item>1. Ankur</item>
+        <item>2. Tata</item>
+        <item>3. Surya</item>
+        <item>4. Taza</item>
+        <item>5. Sawastik</item>
+        <item>6. Nirma</item>
+    </string-array>
+    <string-array name="Group10">
+        <item>1. Amul</item>
+        <item>2. Vadilal</item>
+        <item>3. Aditya milk</item>
+        <item>4. Nandini</item>
+    </string-array>
+    <string-array name="Group11">
+        <item>1. Bisleri</item>
+        <item>2. Rail-neer</item>
+        <item>3. Himalya</item>
+        <item>4. Ganga</item>
+        <item>5. Divyajal</item>
+    </string-array>
+    <string-array name="Group12">
+        <item>1. HCL</item>
+        <item>2. Voltas</item>
+        <item>3. Videocon</item>
+        <item>4. BPL</item>
+        <item>5. ONIDA</item>
+        <item>6. Salora</item>
+        <item>7. Orpat</item>
+        <item>8. Osacr</item>
+        <item>9. T-Series</item>
+        <item>10. Uptron</item>
+        <item>11. TVS</item>
+        <item>12. Godrej</item>
+        <item>13. Bajaj</item>
+        <item>14. Usha</item>
+        <item>15. Polar</item>
+        <item>16. Anchor</item>
+        <item>17. Surya</item>
+        <item>18. Orient</item>
+        <item>19. Cinni</item>
+        <item>20. Tullu</item>
+        <item>21. Crompton</item>
+        <item>22. Lloyd</item>
+        <item>23. Blue Star</item>
+        <item>24. Jeep</item>
+        <item>25. Khetan</item>
+        <item>26. Novino</item>
+        <item>27. Titan</item>
+        <item>28. Ajanta</item>
+        <item>29. Prestige</item>
+        <item>30. HMT</item>
+        <item>31. Maxima</item>
+        <item>32. Lava</item>
+        <item>33. Karbonn</item>
+        <item>34. Micromax</item>
+        <item>35. Spice</item>
+    </string-array>
+    <string-array name="Group13">
+        <item>1. Raymond</item>
+        <item>2. Oxemburg</item>
+        <item>3. Bombay Dying</item>
+        <item>4. Park avenue</item>
+        <item>5. Ruf and Tuf</item>
+        <item>6. Triglar Jeans</item>
+        <item>7. Westside</item>
+        <item>8. Cotton king</item>
+        <item>9. Cambridge</item>
+        <item>10. Provogue</item>
+        <item>11. Khadi</item>
+        <item>12. Siyaram</item>
+    </string-array>
+    <string-array name="Group14">
+        <item>1. Camel</item>
+        <item>2. Sharp</item>
+        <item>3. Cello</item>
+        <item>4. Natraj</item>
+        <item>5. Link</item>
+        <item>6. Montex</item>
+        <item>7. Luxur</item>
+    </string-array>
+    <string-array name="Group15">
+        <item>1. Tata</item>
+        <item>2. Mahindra</item>
+        <item>3. Bajaj</item>
+    </string-array>
+    <string-array name="Group16">
+        <item>1. Micromax</item>
+        <item>2. Intex</item>
+        <item>3. I-Ball</item>
+        <item>4. Lava</item>
+        <item>5. Zen</item>
+        <item>6. Spice</item>
+        <item>7. Smartron</item>
+    </string-array>
+    <string-array name="Group17">
+        <item>1. Red chillies</item>
+        <item>2. Makuta</item>
+    </string-array>
+    <string-array name="Group18">
+        <item>1. Infosys</item>
+        <item>2. TCS</item>
+        <item>3. Wipro</item>
+    </string-array>
+    <string-array name="Group19">
+        <item>1. HAL</item>
+        <item>2. Reliance defence</item>
+    </string-array>
+    <string-array name="Group20">
+        <item>1. Patanjali</item>
+        <item>2. Himalaya</item>
+        <item>3. Ayur</item>
+        <item>4. Sun Pharmaceutical Industries Limited</item>
+        <item>5. Lupin Limited</item>
+        <item>6. Cipla Limited</item>
+        <item>7. Dr. Reddy’s Laboratories</item>
+        <item>8. ManKind Pharma Limited</item>
+        <item>9. Aurobindo Pharma Limited</item>
+    </string-array>
+    <string-array name="Group21">
+        <item>1. Titan</item>
+        <item>2. Sonata</item>
+        <item>3. Fastrack</item>
+    </string-array>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

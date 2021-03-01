@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home"
+            android:icon="@drawable/home_new"
+            android:title="Home"/>
+        <item android:id="@+id/nav_swadeshi_list"
+            android:icon="@drawable/pro_list"
+            android:title="Swadeshi List"/>
+        <item android:id="@+id/nav_how_to_use"
+            android:icon="@drawable/help_new"
+            android:title="How to use ?"/>
+        <item android:id="@+id/nav_about_us"
+            android:icon="@drawable/info_new"
+            android:title="About"/>
+        <item android:id="@+id/nav_feedback"
+            android:icon="@drawable/feedback"
+            android:title="Feedback"/>
+        <item android:id="@+id/nav_contact_us"
+            android:icon="@drawable/contact_new"
+            android:title="Contact us"/>
+        <item android:id="@+id/nav_app_developers"
+            android:icon="@drawable/developer_new"
+            android:title="Developers"/>
+        <item android:id="@+id/nav_share_app"
+            android:icon="@drawable/share_icon"
+            android:title="Share"/>
+        <item android:id="@+id/nav_logout"
+            android:icon="@drawable/logout_new"
+            android:title="Logout"/>
+
+    </group>
+</menu>

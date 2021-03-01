@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+
+
+    <ImageView
+        android:id="@+id/app_developers"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/searchbar_box"
+        android:contentDescription="@string/developers_page" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text="@string/app_developers"
+        android:fontFamily="@font/source_sans_pro"
+        android:textAlignment="center"
+        android:textSize="22sp"
+        android:textColor="@color/grey"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="65dp" />
+
+    <TextView
+        android:id="@+id/westu"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:text="@string/we_students_of_india_want_to_take_a_step_towards_our_respected_prime_minister_s_request"
+        android:textSize="15sp"
+        android:fontFamily="@font/source_sans_pro"
+        android:textColor="@color/grey"
+        android:textAlignment="center" />
+
+
+
+    <TextView
+        android:id="@+id/thank"
+        android:layout_below="@id/westu"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="@string/thank_you"
+        android:fontFamily="@font/source_sans_pro"
+        android:textColor="@color/grey"
+        android:textSize="16sp"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/devnames"
+        android:layout_below="@+id/thank"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/rachit_pahwa_mudit_dubey_shubham_bindal_rishab_jain_daksh_agnihotri_pradyumna_mittal"
+        android:textSize="16sp"
+        android:fontFamily="@font/source_sans_pro"
+        android:textColor="@color/grey"
+        android:textAlignment="center" />
+
+    <ImageView
+        android:id="@+id/line7"
+        android:layout_width="100dp"
+        android:layout_height="3dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/devnames"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/line7"
+        android:contentDescription="@string/line7" />
+
+</RelativeLayout>
+
+
